@@ -28,9 +28,20 @@ Test:
 DynamoDB
 
  ![dynamoDB](./img/dynamoDB.jpg)
+ 
+GetALL
+ ![dynamoDB](./img/dynamoDB2.jpg)
+
+Post
+ ![dynamoDB](./img/dynamoDBPost.jpg) 
+  
 
 RDS
 
  ![rds1](./img/rdsDB.jpg)
 
- ![rds2](./img/Challenge.jpg)
+GetALL
+ ![dynamoDB](./img/rdsDBGet.jpg)
+
+Post
+ ![dynamoDB](./img/rdsDBPost.jpg) 
