@@ -38,8 +38,6 @@ Post
 
 RDS
 
- ![rds1](./img/rdsDB.jpg)
-
 GetALL
  ![dynamoDB](./img/rdsDBGet.jpg)
 
